@@ -1,2 +1,2 @@
-# drools-samples
-👻drools samples by mamian👻
+# 👻drools-samples👻
+drools规则引擎例子
